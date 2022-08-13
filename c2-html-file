@@ -1,0 +1,1332 @@
+<!DOCTYPE html>
+<!-- saved from url=(0063)file:///C:/Users/LENOVO/Desktop/project-1/sample%20program.html -->
+<html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+        <link rel="stylesheet" href="sample program.css">
+    </head>
+<body><div class="container">
+    <h2> 2.Teaching -learning and Evaluation</h2>
+    <div class="heading-container">
+        <p class="heading-1"><span class="span-style">2.1 Teaching and learning evaluation</span>  </p>
+    </div>
+     <div class="marging-container">
+      <div class="marging-container-1&gt;" <div="">
+<div class="margin-conatiner-2">
+  <div class="margin-3">
+<div class="margin-4">
+            <label for="one">2.1.1 Average Enrolment  Percentage (Average of last five Years)</label>
+             <input id="one" type="text">
+            <label for="one">%</label>
+        </div>
+   
+     <p>
+
+
+
+
+
+     </p>
+    <div class="container-2">
+            <p class="content"> 2.1.1.1:Number of students admitted  year-wise during last five years</p> 
+             <div> </div><table class="table-1" border="2">
+           <tbody><tr class="tb-1">
+                <th> 2018-19</th> 
+                <th> 2017-18</th>
+                <th> 2016-17</th>
+                <th> 2015-16</th>
+                <th> 2014-15</th>
+            </tr>
+        
+
+            <tr>
+                </tr><tr>
+                    <td><input type="  " class="Size1" id="mytext" value=" 100" "=""></td>
+                    <td> <input type="  " class="Size1" id="mytext" value=" 100" "=""></td>
+                    <td> <input type="  " class="Size1" id="mytext" value=" 100" "=""></td>
+                    <td> <input type="  " class="Size1" id="mytext" value=" 100" "=""></td>
+                    <td> <input type="  " class="Size1" id="mytext" value=" 100" "=""></td>
+                </tr>
+            
+
+           </tbody></table>
+        </div>  
+       <p>
+
+
+
+       </p>
+    
+    <div class="container-3">
+        <p class="content"> 2.1.1.2:Number of sanctioned seats year wise during last five years</p> 
+         <div></div><table class="table-2" border="2px" solid="" black="">
+        <tbody><tr class="tb-1">
+            <th> 2018-19</th> 
+            <th> 2017-18</th>
+            <th> 2016-17</th>
+            <th> 2015-16</th>
+            <th> 2014-15</th>
+        </tr>
+    
+        <tr>
+            </tr><tr>
+                <td><input type="  " class="Size1" id="mytext" value=" 200" "=""></td>
+                <td> <input type="  " class="Size1" id="mytext" value=" 100" "=""></td>
+                <td> <input type="  " class="Size1" id="mytext" value=" 200" "=""></td>
+                <td> <input type="  " class="Size1" id="mytext" value=" 200" "=""></td>
+                <td> <input type="  " class="Size1" id="mytext" value=" 200" "=""></td>
+            </tr>
+        
+
+       </tbody></table>
+    </div>
+    
+       <div class="container-4">
+        <h2> Related Input</h2>
+        <h3> Total Academic Year Considered:5</h3>
+     
+       <p>
+
+
+
+       </p>
+      
+       <div class="conatiner-30">>
+<div></div><table border="2"> 
+    <tbody><tr class="coloring-1">
+     
+    </tr><tr class="tb-1">
+       <th>File Description</th>
+        <th>Template</th>
+        <th>Documents</th>
+    </tr>
+
+       <tr>
+       <td>Institutional data in prescribed format</td>
+        <td>Data Tempalte</td>
+        <td><button onclick="uploaded()">Upload </button>    </td>
+       </tr>
+        <tr>
+        <td>Any Additional Information</td>
+       <td> </td>
+       <td><button onclick="uploaded()">Upload </button></td>
+        </tr>
+       </tbody></table>
+    </div>
+       <p>
+
+
+
+       </p>
+       <hr>
+  </div>
+  </div>
+</div>
+  <p>
+
+
+
+        
+</p>
+
+ <div class="container-4">
+     <h2> 2.1.1  Average Enrollement percentage (Average of last  Five  Years) </h2>
+    <hr>
+    <h1> Documents Required:</h1> 
+    <li>Documents  realting  to sanction  of intake  from affiliting university/Giovernment/statutory</li>
+    <li>Apporved  admission  list year -wise  /program-wise  from the affiliting university</li> 
+    <h1>
+            Specific Instruction:
+    </h1>
+    <li>
+            sanctioned  admission  strength  in each  program  vs  student's  entrolment  for each program  Year-Wise
+    </li>
+    <h2> Not to be included/Considered:</h2>
+    <p class="adjustment-1"> ..................................NA...................................</p>
+    <div class="adjustment-5">
+        <label for="one">2.1.2:Average Percentage of Seats  filled  Against  seats  reserved  for various  categories (SC,ST,OBC ,Divyangjan,etc  as per  Apllicable reservation  policy)
+            During the last  five years ( exclusive  of supernumerary seats)
+        </label>
+        <input id="four" type="text">
+
+        </div>      
+        <p>
+
+
+
+        </p>  
+ 
+<div class="container-5">
+        <p class="content"> 2.1.2.1:Number of actual students  admitted from the  reversed  categories year  wise  during the 
+            last five years .</p> 
+         <div></div><table border="2" class="table-1" solid="" black="">
+        <tbody><tr class="tb-1">
+            <th> 2018-19</th> 
+            <th> 2017-18</th>
+            <th> 2016-17</th>
+            <th> 2015-16</th>
+            <th> 2014-15</th>
+        </tr>
+    
+        <tr>
+            </tr><tr>
+                <td><input type="  " class="Size1" id="mytext" value=" " "=""></td>
+                <td> <input type="  " class="Size1" id="mytext" value=" " "=""></td>
+                <td> <input type="  " class="Size1" id="mytext" value=" " "=""></td>
+                <td> <input type="  " class="Size1" id="mytext" value=" " "=""></td>
+                <td> <input type="  " class="Size1" id="mytext" value=" " "=""></td>
+            </tr>
+        
+
+       </tbody></table>
+       </div>
+     <div classs="adjustment-6" "="">
+        <p>
+
+
+        </p>
+   <div class="adjustment-7">
+        <h2> Related Input</h2>
+           <label>
+            Number of Seats earmarked  for reserved  category  as per  GOI/state govt rule year wise during  last  five years
+        </label>
+        
+       
+
+        <div class="adustment-8">
+            <div></div><table text="" align="center" border="2">
+            <tbody>
+               <tr class="tb-1">
+               <td> year-1</td> 
+               <td>  year-2</td>
+               <td>  year-3</td>
+               <td>  year-4</td>
+               <td>  year-5</td>
+            </tr>
+        
+            <tr>
+                <td> 106  </td>
+                <td>  118  </td>
+                <td>  120 </td>
+                <td> 132   </td>
+                <td> 132 </td>
+
+            </tr>
+            
+        
+           </tbody>
+           </table>
+       
+     </div>
+           <h2> Total  Academic year  Considered:5</h2>
+        </div> 
+    </div> 
+    <p>
+
+
+
+    </p>
+        <div> </div><table border="2"> 
+            <tbody><tr class="coloring-1">
+             
+           </tr><tr class="tb-1">
+               <th>File Description</th>
+                <th>Template</th>
+                <th>Documents</th>
+            </tr>
+        
+               <tr>
+               <td> Average percentage of seats filled  against  seats  reserved </td>
+                <td>Data Tempalte</td>
+                <td><button onclick="uploaded()">Upload </button>    </td>
+               </tr>
+                <tr>
+                <td>Any Additional Information</td>
+               <td> </td>
+               <td><button onclick="uploaded()">Upload </button></td>
+                </tr>
+               </tbody></table>
+            </div>            
+           </div>
+    <div class="broder-1" <h1=""> 2.1.2 Average percentage of seats   filled  against  seats  reseved for  various categories(SC ,ST,OBC ,Divyanjan ,etc  ass per
+            applicable  reaservation  policy  during  the last  five years(exclusive of supernumeraryseats)
+                
+            <hr>
+              <h1> Documents Required:</h1>
+
+                 <li>copy  of letter  issued by state Government indicating  the reserved categories to be  Considered as per  state rule (in English applicable) </li>              Final  admission list  indicating the category as  published by  the HEI  and singned by the principal 
+                <li> admission exctract submitted  to state OBC  ,SC ans STcell every year</li> 
+            <li>Number of seats  year  marked  for reseved categories</li>
+
+              <h1> Specific Instruction:</h1>
+
+             <li> include only those reserved  categories ass Specified by the state /central Government orders for  admission</li>
+             <li>  only those  seats  filled against quota should be counted here </li>
+              <h1>  Not to be included/Considered:</h1>
+                <li> Candidates  belonging  to the reserved categories who are  admitted  against  General merit  category should be included
+
+              </li>
+              <li>
+               Exclude  admission  to supernumerary supernumraryseats
+              </li>
+           
+<div class="container-5">
+             <h2>  2.2 Catering to student Diversity</h2>
+            </div>
+           </div>
+            <p>
+
+
+
+            </p>
+          
+        <div> 
+                
+                <h2> 2.2.1: the  institution assesses  the learing  levels  of the    students  and  organises special programmes for advanced learners and  slow  learners ....<button onclick="uploaded()">HELP</button></h2>
+                   <div>
+                <link href="./sample program_files/infragistics.theme.css" rel="stylesheet">
+                    <link href="./sample program_files/infragistics.css" rel="stylesheet">
+                 
+                    <script src="./sample program_files/modernizr-2.8.3.js.download"></script>
+                    <script src="./sample program_files/jquery-1.11.3.min.js.download"></script>
+                    <script src="./sample program_files/jquery-ui.min.js.download"></script>
+                
+                    <!-- Ignite UI for jQuery Required Combined JavaScript Files -->
+                    <script src="./sample program_files/infragistics.core.js.download"></script>
+                    <script src="./sample program_files/infragistics.lob.js.download"></script>
+                
+                     
+                     
+                    <style type="text/css">
+                        #htmlEditor {
+                            margin-bottom: 10px;
+                        }
+                
+                        #text_collapseButton,
+                        #formatting_collapseButton {
+                            display: none;
+                        }
+                
+                        #toolbarHolder {
+                            z-index: 99999;
+                        }
+                
+                        /* Override sample's browser styles */
+                        #htmlEditor h1, #htmlEditor h2, #htmlEditor h3, #htmlEditor h4, #htmlEditor h5, #htmlEditor h6 { margin: 0px; }
+                        #htmlEditor h1 { font-size: 1.9em; }
+                        #sampleContainer { overflow: visible; }
+                
+                    </style>
+                
+                    <!--igHtmlEditor target element-->
+                    <div id="htmlEditor" class="ui-widget ui-widget-content ui-corner-all ui-ightmleditor ui-helper-clearfix" style="height: 350px; width: 99%;"><div id="htmlEditor_toolbars" class="ui-igtoolbars-holder"><span id="htmlEditor_toolbars_textToolbar" class="ui-widget ui-widget-content ui-igtoolbar ui-corner-all"><div tabindex="1" id="htmlEditor_toolbars_textToolbar_collapseButton" data-state="expand" title="Collapse text manipulation toolbar" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-collapse" id="htmlEditor_toolbars_textToolbar_collapseButton_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_textToolbar_collapseButton_lbl">&nbsp;</span></div><div id="htmlEditor_toolbars_textToolbar_toolbar_buttons" class="ig-toolbar-buttons-holder"><div tabindex="1" id="htmlEditor_toolbars_textToolbar_item_Bold" data-localeid="boldButtonTitle" data-localeattr="title" title="Bold" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-bold" id="htmlEditor_toolbars_textToolbar_item_Bold_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_textToolbar_item_Bold_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_textToolbar_item_Italic" data-localeid="italicButtonTitle" data-localeattr="title" title="Italic" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-italic" id="htmlEditor_toolbars_textToolbar_item_Italic_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_textToolbar_item_Italic_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_textToolbar_item_Underline" data-localeid="underlineButtonTitle" data-localeattr="title" title="Underline" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-underline" id="htmlEditor_toolbars_textToolbar_item_Underline_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_textToolbar_item_Underline_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_textToolbar_item_Strikethrough" data-localeid="strikethroughButtonTitle" data-localeattr="title" title="Strikethrough" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-strikethrough" id="htmlEditor_toolbars_textToolbar_item_Strikethrough_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_textToolbar_item_Strikethrough_lbl">&nbsp;</span></div><div tabindex="0" id="htmlEditor_toolbars_textToolbar_item_fontFamily" class="ui-igcombo-wrapper ui-combo-fontfamily" style="width: 180px; height: 24px;"><div class="ui-igcombo ui-widget ui-state-default ui-corner-all ui-unselectable ui-igcombo-mode-dropdown" unselectable="on"><div class="ui-igcombo-button ui-state-default ui-unselectable ui-igcombo-button-ltr ui-corner-right" unselectable="on" title="Show drop-down" data-localeid="dropDownButtonTitle" data-localeattr="title"><div class="ui-igcombo-buttonicon ui-icon-triangle-1-s ui-icon"></div></div><div class="ui-igcombo-clear ui-unselectable" unselectable="on" title="Clear value" data-localeid="clearButtonTitle" data-localeattr="title" style="display: none;"><div class="ui-igcombo-clearicon ui-icon-circle-close ui-icon"></div></div><div class="ui-igcombo-fieldholder ui-igcombo-fieldholder-ltr ui-corner-left"><input type="text" class="ui-igcombo-field ui-corner-all ui-unselectable" autocomplete="off" placeholder="select..." data-localeid="placeHolder" data-localeattr="placeholder" readonly="readonly" unselectable="on"></div><input type="hidden" class="ui-igcombo-hidden-field" value="Times New Roman"></div></div><div tabindex="0" id="htmlEditor_toolbars_textToolbar_item_fontSize" class="ui-igcombo-wrapper" style="width: 75px; height: 24px;"><div class="ui-igcombo ui-widget ui-state-default ui-corner-all ui-unselectable ui-igcombo-mode-dropdown" unselectable="on"><div class="ui-igcombo-button ui-state-default ui-unselectable ui-igcombo-button-ltr ui-corner-right" unselectable="on" title="Show drop-down" data-localeid="dropDownButtonTitle" data-localeattr="title"><div class="ui-igcombo-buttonicon ui-icon-triangle-1-s ui-icon"></div></div><div class="ui-igcombo-clear ui-unselectable" unselectable="on" title="Clear value" data-localeid="clearButtonTitle" data-localeattr="title" style="display: none;"><div class="ui-igcombo-clearicon ui-icon-circle-close ui-icon"></div></div><div class="ui-igcombo-fieldholder ui-igcombo-fieldholder-ltr ui-corner-left"><input type="text" class="ui-igcombo-field ui-corner-all ui-unselectable" autocomplete="off" placeholder="select..." data-localeid="placeHolder" data-localeattr="placeholder" readonly="readonly" unselectable="on"></div><input type="hidden" class="ui-igcombo-hidden-field" value="3"></div></div><div tabindex="0" id="htmlEditor_toolbars_textToolbar_item_formatsList" class="ui-igcombo-wrapper" style="width: 170px; height: 24px;"><div class="ui-igcombo ui-widget ui-state-default ui-corner-all ui-unselectable ui-igcombo-mode-dropdown" unselectable="on"><div class="ui-igcombo-button ui-state-default ui-unselectable ui-igcombo-button-ltr ui-corner-right" unselectable="on" title="Show drop-down" data-localeid="dropDownButtonTitle" data-localeattr="title"><div class="ui-igcombo-buttonicon ui-icon-triangle-1-s ui-icon"></div></div><div class="ui-igcombo-clear ui-unselectable" unselectable="on" title="Clear value" data-localeid="clearButtonTitle" data-localeattr="title" style="display: none;"><div class="ui-igcombo-clearicon ui-icon-circle-close ui-icon"></div></div><div class="ui-igcombo-fieldholder ui-igcombo-fieldholder-ltr ui-corner-left"><input type="text" class="ui-igcombo-field ui-corner-all ui-unselectable" autocomplete="off" placeholder="select..." data-localeid="placeHolder" data-localeattr="placeholder" readonly="readonly" unselectable="on"></div><input type="hidden" class="ui-igcombo-hidden-field" value="p"></div></div></div></span><span id="htmlEditor_toolbars_formattingToolbar" class="ui-widget ui-widget-content ui-igtoolbar ui-corner-all"><div tabindex="1" id="htmlEditor_toolbars_formattingToolbar_collapseButton" data-state="expand" title="Collapse text formatting toolbar" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-collapse" id="htmlEditor_toolbars_formattingToolbar_collapseButton_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_formattingToolbar_collapseButton_lbl">&nbsp;</span></div><div id="htmlEditor_toolbars_formattingToolbar_toolbar_buttons" class="ig-toolbar-buttons-holder"><div tabindex="1" id="htmlEditor_toolbars_formattingToolbar_item_justifyleft" data-localeid="alignTextLeftButtonTitle" data-localeattr="title" class="ui-state-active ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" title="Align Text Left" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-justifyleft" id="htmlEditor_toolbars_formattingToolbar_item_justifyleft_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_formattingToolbar_item_justifyleft_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_formattingToolbar_item_justifycenter" data-localeid="alignTextCenterButtonTitle" data-localeattr="title" title="Center" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-justifycenter" id="htmlEditor_toolbars_formattingToolbar_item_justifycenter_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_formattingToolbar_item_justifycenter_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_formattingToolbar_item_justifyright" data-localeid="alignTextRightButtonTitle" data-localeattr="title" title="Align Text Right" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-justifyright" id="htmlEditor_toolbars_formattingToolbar_item_justifyright_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_formattingToolbar_item_justifyright_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_formattingToolbar_item_justifyfull" data-localeid="justifyButtonTitle" data-localeattr="title" title="Justify" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-justifyfull" id="htmlEditor_toolbars_formattingToolbar_item_justifyfull_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_formattingToolbar_item_justifyfull_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_formattingToolbar_item_InsertUnorderedList" data-localeid="bulletsButtonTitle" data-localeattr="title" title="Bullets" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-unorderedlist" id="htmlEditor_toolbars_formattingToolbar_item_InsertUnorderedList_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_formattingToolbar_item_InsertUnorderedList_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_formattingToolbar_item_InsertOrderedList" data-localeid="numberingButtonTitle" data-localeattr="title" title="Numbering" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-orderedlist" id="htmlEditor_toolbars_formattingToolbar_item_InsertOrderedList_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_formattingToolbar_item_InsertOrderedList_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_formattingToolbar_item_outdent" data-localeid="decreaseIndentButtonTitle" data-localeattr="title" title="Decrease Indent" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-removeindent" id="htmlEditor_toolbars_formattingToolbar_item_outdent_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_formattingToolbar_item_outdent_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_formattingToolbar_item_indent" data-localeid="increaseIndentButtonTitle" data-localeattr="title" title="Increase Indent" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-indent" id="htmlEditor_toolbars_formattingToolbar_item_indent_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_formattingToolbar_item_indent_lbl">&nbsp;</span></div><div tabindex="0" id="htmlEditor_toolbars_formattingToolbar_item_textColor" data-localeid="fontColorButtonTitle" data-localeattr="title" title="Font Color" class="ui-splitbutton ui-widget ui-state-default"><div id="htmlEditor_toolbars_formattingToolbar_item_textColor_textColor" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-state-default ui-igtoolbarbutton ui-splitbutton-cleargaps ui-corner-left" role="button" aria-disabled="false" tabindex="1"><span class="ui-button-icon-primary ui-icon ui-igbutton-forecolor" id="htmlEditor_toolbars_formattingToolbar_item_textColor_textColor_picn" style="border-bottom-color: rgb(255, 0, 0);"></span><span class="ui-button-text" id="htmlEditor_toolbars_formattingToolbar_item_textColor_textColor_lbl">&nbsp;</span></div><div id="htmlEditor_toolbars_formattingToolbar_item_textColor_arrow" class="ui-splitbutton-arrow ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-state-default ui-igtoolbarbutton ui-splitbutton-cleargaps ui-corner-right" role="button" aria-disabled="false" tabindex="1"><span class="ui-button-icon-primary ui-icon ui-icon-triangle-1-s" id="htmlEditor_toolbars_formattingToolbar_item_textColor_arrow_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_formattingToolbar_item_textColor_arrow_lbl">&nbsp;</span></div><div id="htmlEditor_toolbars_formattingToolbar_item_textColor_popover"></div></div><div tabindex="0" id="htmlEditor_toolbars_formattingToolbar_item_backgroundTextColor" data-localeid="textHighlightButtonTitle" data-localeattr="title" title="Text Highlight Color" class="ui-splitbutton ui-widget ui-state-default"><div id="htmlEditor_toolbars_formattingToolbar_item_backgroundTextColor_backgroundTextColor" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-state-default ui-igtoolbarbutton ui-splitbutton-cleargaps ui-corner-left" role="button" aria-disabled="false" tabindex="1"><span class="ui-button-icon-primary ui-icon ui-igbutton-backcolor" id="htmlEditor_toolbars_formattingToolbar_item_backgroundTextColor_backgroundTextColor_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_formattingToolbar_item_backgroundTextColor_backgroundTextColor_lbl">&nbsp;</span></div><div id="htmlEditor_toolbars_formattingToolbar_item_backgroundTextColor_arrow" class="ui-splitbutton-arrow ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-state-default ui-igtoolbarbutton ui-splitbutton-cleargaps ui-corner-right" role="button" aria-disabled="false" tabindex="1"><span class="ui-button-icon-primary ui-icon ui-icon-triangle-1-s" id="htmlEditor_toolbars_formattingToolbar_item_backgroundTextColor_arrow_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_formattingToolbar_item_backgroundTextColor_arrow_lbl">&nbsp;</span></div><div id="htmlEditor_toolbars_formattingToolbar_item_backgroundTextColor_popover"></div></div></div></span><span id="htmlEditor_toolbars_insertObjectToolbar" class="ui-widget ui-widget-content ui-igtoolbar ui-corner-all"><div tabindex="1" id="htmlEditor_toolbars_insertObjectToolbar_collapseButton" data-state="expand" title="Collapse objects insertion toolbar" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-collapse" id="htmlEditor_toolbars_insertObjectToolbar_collapseButton_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_insertObjectToolbar_collapseButton_lbl">&nbsp;</span></div><div id="htmlEditor_toolbars_insertObjectToolbar_toolbar_buttons" class="ig-toolbar-buttons-holder"><div tabindex="1" id="htmlEditor_toolbars_insertObjectToolbar_item_image" data-localeid="insertPictureButtonTitle" data-localeattr="title" title="Insert Picture" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-addimage" id="htmlEditor_toolbars_insertObjectToolbar_item_image_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_insertObjectToolbar_item_image_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_insertObjectToolbar_item_link" data-localeid="insertLinkButtonTitle" data-localeattr="title" title="Insert Hyperlink" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-addlink" id="htmlEditor_toolbars_insertObjectToolbar_item_link_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_insertObjectToolbar_item_link_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_insertObjectToolbar_item_table" data-localeid="insertTableButtonTitle" data-localeattr="title" title="Table" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-table" id="htmlEditor_toolbars_insertObjectToolbar_item_table_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_insertObjectToolbar_item_table_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_insertObjectToolbar_item_addRow" data-localeid="addRowButtonTitle" data-localeattr="title" title="Add Row" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton ui-igToolbarButton-disabled ui-state-disabled" role="button" aria-disabled="false" disabled="disabled"><span class="ui-button-icon-primary ui-icon ui-igbutton-addrow" id="htmlEditor_toolbars_insertObjectToolbar_item_addRow_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_insertObjectToolbar_item_addRow_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_insertObjectToolbar_item_addColumn" data-localeid="addColumnButtonTitle" data-localeattr="title" title="Add Column" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton ui-igToolbarButton-disabled ui-state-disabled" role="button" aria-disabled="false" disabled="disabled"><span class="ui-button-icon-primary ui-icon ui-igbutton-addcolumn" id="htmlEditor_toolbars_insertObjectToolbar_item_addColumn_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_insertObjectToolbar_item_addColumn_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_insertObjectToolbar_item_removeRow" data-localeid="removeRowButtonTitle" data-localeattr="title" title="Remove Row" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton ui-igToolbarButton-disabled ui-state-disabled" role="button" aria-disabled="false" disabled="disabled"><span class="ui-button-icon-primary ui-icon ui-igbutton-removerow" id="htmlEditor_toolbars_insertObjectToolbar_item_removeRow_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_insertObjectToolbar_item_removeRow_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_insertObjectToolbar_item_removeColumn" data-localeid="removeColumnButtonTitle" data-localeattr="title" title="Remove Column" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton ui-igToolbarButton-disabled ui-state-disabled" role="button" aria-disabled="false" disabled="disabled"><span class="ui-button-icon-primary ui-icon ui-igbutton-removecolumn" id="htmlEditor_toolbars_insertObjectToolbar_item_removeColumn_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_insertObjectToolbar_item_removeColumn_lbl">&nbsp;</span></div></div></span><span id="htmlEditor_toolbars_copyPasteToolbar" class="ui-widget ui-widget-content ui-igtoolbar ui-corner-all"><div tabindex="1" id="htmlEditor_toolbars_copyPasteToolbar_collapseButton" data-state="expand" title="Collapse copy/paste toolbar" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-collapse" id="htmlEditor_toolbars_copyPasteToolbar_collapseButton_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_copyPasteToolbar_collapseButton_lbl">&nbsp;</span></div><div id="htmlEditor_toolbars_copyPasteToolbar_toolbar_buttons" class="ig-toolbar-buttons-holder"><div tabindex="1" id="htmlEditor_toolbars_copyPasteToolbar_item_copy" data-localeid="copyButtonTitle" data-localeattr="title" title="Copy" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton ui-igToolbarButton-disabled ui-state-disabled" role="button" aria-disabled="false" disabled="disabled"><span class="ui-button-icon-primary ui-icon ui-igbutton-copy" id="htmlEditor_toolbars_copyPasteToolbar_item_copy_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_copyPasteToolbar_item_copy_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_copyPasteToolbar_item_cut" data-localeid="cutButtonTitle" data-localeattr="title" title="Cut" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton ui-igToolbarButton-disabled ui-state-disabled" role="button" aria-disabled="false" disabled="disabled"><span class="ui-button-icon-primary ui-icon ui-igbutton-cut" id="htmlEditor_toolbars_copyPasteToolbar_item_cut_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_copyPasteToolbar_item_cut_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_copyPasteToolbar_item_paste" data-localeid="pasteButtonTitle" data-localeattr="title" title="Paste" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton ui-igToolbarButton-disabled ui-state-disabled" role="button" aria-disabled="false" disabled="disabled"><span class="ui-button-icon-primary ui-icon ui-igbutton-paste" id="htmlEditor_toolbars_copyPasteToolbar_item_paste_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_copyPasteToolbar_item_paste_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_copyPasteToolbar_item_undo" data-localeid="undoButtonTitle" data-localeattr="title" title="Undo" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-undo" id="htmlEditor_toolbars_copyPasteToolbar_item_undo_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_copyPasteToolbar_item_undo_lbl">&nbsp;</span></div><div tabindex="1" id="htmlEditor_toolbars_copyPasteToolbar_item_redo" data-localeid="redoButtonTitle" data-localeattr="title" title="Redo" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-redo" id="htmlEditor_toolbars_copyPasteToolbar_item_redo_picn"></span><span class="ui-button-text" id="htmlEditor_toolbars_copyPasteToolbar_item_redo_lbl">&nbsp;</span></div></div></span></div><div id="htmlEditor_content" class="ui-ightmleditor-content"><iframe class="ui-widget-content" id="htmlEditor_editor" style="height: 224px;" src="./sample program_files/saved_resource.html"></iframe><textarea name="htmlEditor" id="htmlEditor_source" style="display: none; height: 224px;"></textarea></div><div class="ui-igbutton-viewsource ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default" title="View Source" role="button" aria-disabled="false" data-localeid="viewSourceButtonTitle" data-localeattr="title"><span class="ui-button-icon-primary ui-icon ui-igbutton-viewsource-icon" id="_picn"></span><span class="ui-button-text" id="_lbl">&nbsp;</span></div><div id="htmlEditor_domPathToolbar" class="ui-igPathFinder" aria-disabled="false"></div></div>
+                
+                    <div id="toolbarHolder" style="display: none;">
+                        <div id="text" class="ui-widget ui-widget-content ui-igtoolbar ui-corner-all"><div tabindex="1" id="text_collapseButton" data-state="expand" title="Collapse Toolbar text" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false" style=""><span class="ui-button-icon-primary ui-icon ui-igbutton-collapse" id="text_collapseButton_picn"></span><span class="ui-button-text" id="text_collapseButton_lbl">&nbsp;</span></div><div id="text_toolbar_buttons" class="ig-toolbar-buttons-holder"><div tabindex="1" id="text_item_Bold" title="Bold" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-bold" id="text_item_Bold_picn"></span><span class="ui-button-text" id="text_item_Bold_lbl">&nbsp;</span></div><div tabindex="1" id="text_item_Italic" title="Italic" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-italic" id="text_item_Italic_picn"></span><span class="ui-button-text" id="text_item_Italic_lbl">&nbsp;</span></div><div tabindex="1" id="text_item_Underline" title="Underline" class="ui-button-icon-only ui-button ui-igbutton ui-widget ui-widget-content ui-corner-all ui-state-default ui-igtoolbarbutton" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-igbutton-underline" id="text_item_Underline_picn"></span><span class="ui-button-text" id="text_item_Underline_lbl">&nbsp;</span></div></div></div>
+                    </div>
+                
+                    <script>
+                        function getSelectionCoords() {
+                            var sel = window.frames[0].document.selection, range;
+                            var x = 0, y = 0;
+                            if (sel) {
+                                if (sel.type != "Control") {
+                                    range = sel.createRange();
+                                    range.collapse(true);
+                                    x = range.boundingLeft;
+                                    y = range.boundingTop;
+                                }
+                            } else if (window.frames[0].document.getSelection) {
+                                sel = window.frames[0].document.getSelection();
+                                if (sel.rangeCount) {
+                                    range = sel.getRangeAt(0).cloneRange();
+                                    if (range.getClientRects) {
+                                        range.collapse(true);
+                                        var rect = range.getClientRects()[0];
+                                        if (rect) {
+                                            x = rect.left;
+                                            y = rect.top;
+                                        }
+                                    }
+                                }
+                            }
+                
+                            return {
+                                x: x,
+                                y: y + 118
+                            };
+                        }
+                
+                        function selectionIs(sel, state) {
+                            var range, isState = false;
+                            if (window.frames[0].document.getSelection) {
+                                if (sel && sel.getRangeAt && sel.rangeCount) {
+                                    range = sel.getRangeAt(0);
+                                    sel.removeAllRanges();
+                                    sel.addRange(range);
+                                }
+                            }
+                            if (window.frames[0].document.queryCommandState) {
+                                isState = window.frames[0].document.queryCommandState(state);
+                            }
+                            return isState;
+                        }
+                
+                        $(function () {
+                            var $iframe,
+                                mouseMoveCoord,
+                                $htmlEditor = $("#htmlEditor"),
+                                $toolbarHolder = $("#toolbarHolder"),
+                                $textToolbar = $('#text'),
+                                height = $('html').hasClass('touch') ? 500 : 350;
+                
+                            $toolbarHolder.hide();
+                
+                            $htmlEditor.igHtmlEditor({
+                                width: "99%",
+                                height: height,
+                                inputName: "htmlEditor"
+                            });
+                
+                            $textToolbar.igToolbar({
+                                "name": "textToolbar",
+                                "displayName": "Toolbar text",
+                                "isExpanded": true,
+                                "collapseButtonIcon": "ui-igbutton-collapse",
+                                "expandButtonIcon": "ui-igbutton-expand",
+                                "items": [{
+                                    "name": "Bold",
+                                    "type": "button",
+                                    "scope": null,
+                                    "props": {
+                                        "allowToggling": {
+                                            "value": true
+                                        },
+                                        "isBold": {
+                                            "value": false,
+                                            "action": "_isSelectedAction"
+                                        },
+                                        "boldButtonTooltip": {
+                                            "value": "Bold",
+                                            "action": "_tooltipAction"
+                                        },
+                                        "boldButtonIcon": {
+                                            "value": "ui-igbutton-bold",
+                                            "action": "_buttonIconAction"
+                                        }
+                                    }
+                                }, {
+                                    "name": "Italic",
+                                    "type": "button",
+                                    "props": {
+                                        "isItalic": {
+                                            "value": false,
+                                            "action": "_isSelectedAction"
+                                        },
+                                        "italicButtonTooltip": {
+                                            "value": "Italic",
+                                            "action": "_tooltipAction"
+                                        },
+                                        "italicButtonIcon": {
+                                            "value": "ui-igbutton-italic",
+                                            "action": "_buttonIconAction"
+                                        }
+                                    }
+                                }, {
+                                    "name": "Underline",
+                                    "type": "button",
+                                    "props": {
+                                        "isUnderline": {
+                                            "value": false,
+                                            "action": "_isSelectedAction"
+                                        },
+                                        "underlineButtonTooltip": {
+                                            "value": "Underline",
+                                            "action": "_tooltipAction"
+                                        },
+                                        "underlineButtonIcon": {
+                                            "value": "ui-igbutton-underline",
+                                            "action": "_buttonIconAction"
+                                        }
+                                    }
+                                }]
+                            });
+                
+                            $iframe = $('#htmlEditor_editor');
+                
+                            $iframe.contents().find("body").on("mouseup", function (ev) {
+                                var userSelection,
+                                    userSelectionString,
+                                    $bold = $textToolbar.find("div[id*='Bold']"),
+                                    $italic = $textToolbar.find("div[id*='Italic']"),
+                                    $underline = $textToolbar.find("div[id*='Underline']"),
+                                    coord = getSelectionCoords();
+                
+                                if (window.frames[0].document.getSelection) {
+                                    userSelection = window.frames[0].document.getSelection();
+                                    userSelectionString = userSelection.toString();
+                                } else {
+                                    userSelection = window.frames[0].document.selection.createRange();
+                                    userSelectionString = userSelection.text;
+                                }
+                                if (userSelectionString !== "") {
+                                    $toolbarHolder.parent().css({
+                                        position: 'relative'
+                                    });
+                
+                                    $toolbarHolder.css({
+                                        top: coord.y,
+                                        left: coord.x,
+                                        position: 'absolute'
+                                    });
+                
+                                    mouseMoveCoord = {
+                                        x: ev.pageX,
+                                        y: ev.pageY
+                                    };
+                
+                                    if (selectionIs(userSelection, "bold")) {
+                                        $bold.igToolbarButton("activate");
+                                    }
+                
+                                    if (selectionIs(userSelection, "italic")) {
+                                        $italic.igToolbarButton("activate");
+                                    }
+                
+                                    if (selectionIs(userSelection, "underline")) {
+                                        $underline.igToolbarButton("activate");
+                                    }
+                
+                                    $iframe.contents().find("body").on("mousemove", function (ev) {
+                                        if (userSelectionString !== "") {
+                                            if (mouseMoveCoord &&
+                                                ((Math.abs(mouseMoveCoord.x - ev.pageX) > 50) ||
+                                                (Math.abs(mouseMoveCoord.y - ev.pageY) > 50))) {
+                                                
+                                                $toolbarHolder.fadeOut();
+                                            } else {
+                                                $toolbarHolder.fadeIn();
+                                            }
+                                        }
+                                    });
+                
+                                    $iframe.contents().find("body").on("keydown", function (ev) {
+                                        if (ev.keyCode === 66 && ev.ctrlKey) {
+                                            $bold.igToolbarButton("toggle");
+                                        }
+                
+                                        if (ev.keyCode === 73 && ev.ctrlKey) {
+                                            $italic.igToolbarButton("toggle");
+                                        }
+                
+                                        if (ev.keyCode === 85 && ev.ctrlKey) {
+                                            $underline.igToolbarButton("toggle");
+                                        }
+                                    });
+                
+                                    $toolbarHolder.fadeIn();                   
+                                } else {
+                                    $iframe.contents().find("body").off("mousemove");
+                                    $iframe.contents().find("body").off("keydown")
+                
+                                    $toolbarHolder.hide();
+                                    if ($bold.igToolbarButton) {
+                                        $bold.igToolbarButton("deactivate");
+                                    }
+                
+                                    if ($italic) {
+                                        $italic.igToolbarButton("deactivate");
+                                    }
+                
+                                    if ($underline) {
+                                        $underline.igToolbarButton("deactivate");
+                                    }
+                                }
+                            });
+                
+                            $(document).on("igtoolbarbuttonclick", function (ev) {
+                                var command = $(ev.target).attr("id").replace($textToolbar.attr("id") + "_item_", "");
+                                $htmlEditor.igHtmlEditor("executeAction", command.toLowerCase());
+                            });
+                
+                            $(document).on("ightmleditoractionexecuting", function (ev, ui) {
+                                var $button = $textToolbar.find("div[id*='" + ui.actionName + "']");
+                
+                                if ($button.igToolbarButton) {
+                                    $textToolbar.find("div[id*='" + ui.actionName + "']").igToolbarButton("toggle");
+                                }
+                            });
+                        });
+                    </script>
+                    
+    </div>
+   
+         <p>  At  least  100 characters and  within 500 words</p>
+
+
+        
+    
+    <p>
+
+
+
+    </p>
+        <div></div><table border="2"> 
+        <tbody><tr class="coloring-1">
+         
+        </tr><tr class="tb-1">
+           <th>File Description</th>
+            <th>Template</th>
+            <th>Documents</th>
+        </tr>
+    
+           <tr>
+           <td>Upload any additional information</td>
+            <td>    </td>
+            <td><button onclick="uploaded()">Upload </button>    </td>
+           </tr>
+            <tr>
+            <td>Past link for additional information</td>
+           <td> </td>
+           <td> <input type="  " class="Size1" id="mytext" value="" "=""></td>
+            </tr>
+        </tbody></table>
+       
+       
+        
+    
+
+
+    <p>
+
+
+
+
+    </p>
+         <label for="one">2.2.2: Student full time teacher ratio (Data  for the latest completed Academic year)</label>
+         <input id="one" type="text">
+
+
+
+    <div class="container-9">
+           <h1> Related Input</h1><p>Number of Students Year-Wise during last five years</p><table>
+            <tbody><tr></tr>
+    
+           <tr></tr>
+           </tbody></table>
+        
+            <div></div><table border="2">
+            <tbody><tr class="tb-1">
+                <th> Year-1</th>
+                <th> Year-2</th>
+                <th> Year-3</th>
+                <th> Year-4</th>
+                <th> Year-5</th>
+            </tr>
+        
+            <tr>
+                <td> 1008</td>
+                <td> 1337</td>
+                <td> 1694</td>
+                <td> 1893</td>
+                <td> 1697</td>
+            </tr>
+        </tbody></table>
+
+    
+        <p> Number of full time teachers Year-wise during the last five years</p>
+        <div></div><table border="2">
+
+            <tbody><tr class="tb-1">
+                <th> Year-1</th>
+                <th> Year-2</th>
+                <th> Year-3</th>
+                <th> Year-4</th>
+                <th> Year-5</th>
+            </tr>
+        
+            <tr>
+                <td> 100</td>
+                <td> 100</td>
+                <td> 100</td>
+                <td> 100</td>
+                <td> 100</td>
+                
+
+            </tr>
+        </tbody></table>
+        </div>
+       <p>
+
+
+
+
+       </p>
+      <div></div><table border="2" width="100%">
+     <tbody><tr class="tb-1">
+      <th> File Description</th>
+      <th>  Tempalte</th>
+      <th> Documents</th>
+       </tr>
+    
+     <tr>
+       <td> Any additional information</td>
+       <td>    </td>
+      <td> <button onclick="uploaded()">Upload </button></td>
+     </tr>
+
+
+       </tbody></table>
+       </div>    
+
+<div class="border-19"> 
+   <h1> 2.3 Teaching -Learning Process</h1>
+   <hr>
+   <h2> 2.3.1: Student centric methods ,Such as experiential learning .participtive laerning and problem sloving methodologies are used for enhancing laerning experiences  <button onclick="uploaded()">HELP</button></h2>
+    <textarea class="big-input" cols="120" rows="20" border="{2}"> At least 100 characters and within 500 words</textarea>
+     <h2> At least 100 characters and within 500 words</h2>
+   <div></div><table border="2" width="100%" text-align="center">
+    <tbody><tr class="tb-1">
+        <th>
+            File Description
+        </th>
+        <th> Template</th>
+        <th> Documents</th>
+    </tr>
+
+    <tr>
+        <td> Upload any additional imformation</td>
+        <td>  </td>
+        <td> <button onclick="uploaded()">Upload </button>    </td>
+    </tr>
+    <tr>
+        <td> Link for additional information</td>
+        <td>    </td>
+        <td>  <input type="  " class="Size1" id="mytext" value="" "="">  </td>
+    </tr>
+   </tbody></table>
+   <h2> 2.3.2: teachers use ICT enabled tools for effective Teaching -Learning  Process  <button onclick="uploaded()">HELP</button></h2>
+    <textarea class="big-input" cols="120" rows="20" border="{2}"> At least 100 characters and within 500 words</textarea>
+     <h2> At least 100 characters and within 500 words</h2>
+     <div>  </div><table border="2" width="80%" text-align="center">
+      <tbody><tr class="tb-1">
+            <th>
+                File Description
+            </th>
+            <th> Template</th>
+            <th> Documents</th>
+        </tr>
+    
+        <tr>
+            <td> Upload any additional imformation</td>
+            <td>  </td>
+            <td> <button onclick="uploaded()">Upload </button>    </td>
+        </tr>
+        <tr>
+            <td>Provide link for Webpage describing the ICT enabled tools for for effective teaching-Learning process</td>
+            <td>    </td>
+            <td>  <input type="  " class="Size1" id="mytext" value="" "="">  </td>
+        </tr>
+       </tbody></table>
+       <p>
+
+
+
+
+       </p>
+       <label for="seven"> 2.3.3 Ratio of mentor to Students for academic and other related issues(Data for the latest
+         completed academic year)
+       </label>
+             <input id="one" type="text">
+        
+
+<p>
+
+
+
+</p>
+           <div class="color-1">
+           <label for="eight"> 2.3.3.1: Number of mentors
+         
+            </label>
+             <input id="one" type="text">
+            </div>
+            <p>
+
+
+
+            </p>
+            <div class="color-2">
+            <h2> Related Input</h2>
+            <label>
+            Number of students Year-wise during last five Years     </label>
+             <div></div><table text="" align="center" border="2">
+             <tbody>
+                <tr class="tb-1">
+                <td> year-1</td> 
+                <td>  year-2</td>
+                <td>  year-3</td>
+                <td>  year-4</td>
+                <td>  year-5</td>
+             </tr>
+            
+             <tr>
+                 <td> 1008 </td>
+                 <td>  1337  </td>
+                 <td> 1694 </td>
+                 <td> 1893   </td>
+                 <td> 1697 </td>
+ 
+             </tr>
+            </tbody>
+            </table>
+        </div>
+        <p>
+
+
+
+
+        </p>
+        <div></div><table width="80%" border="2"> 
+            <tbody><tr class="coloring-1">
+             
+            </tr><tr class="tb-1">
+               <th>File Description</th>
+                <th>Template</th>
+                <th>Documents</th>
+            </tr>
+        
+               <tr>
+               <td> Upload year wise ,Number of Students enrolled and full time teachers on roll. </td>
+                <td>Data Tempalte</td>
+                <td><button onclick="uploaded()">Upload </button>    </td>
+               </tr>
+                <tr>
+                <td>Mentor/mentee ratio</td>
+               <td> </td>
+               <td><button onclick="uploaded()">Upload </button></td>
+                </tr>
+               <tr>
+                <td> circular pertaining to assigning mentors to mentees</td>
+                <td>    </td>
+                <td> <button onclick="uploaded()">Upload </button>    </td>
+               </tr>
+               </tbody></table>
+               <p>
+
+
+
+               </p>
+               </div>
+<div class="border-18">
+
+       <h1> 2.4 Teacher Profile and quality</h1>
+       <hr>
+       <label for="forteen">2.4.1: Average Percentage of full time teachers against sanctioned  posts during the last five years</label>
+             <input id="one" type="text">
+             <p>
+
+
+
+             </p>
+             <div class="border-21">
+             <h2> Related Input</h2>
+             <h3> Number of full time teachers Year-wise during the last five years</h3>
+          
+            <p>
+     
+     
+     
+            </p>
+     <div></div><table border="2"> 
+         <tbody><tr class="coloring-1">
+          
+         </tr><tr class="tb-1">
+            <th>year-1</th>
+            <th>year-2</th>
+            <th>year-3</th>
+            <th>year-4</th>
+            <th>year-5</th>
+         </tr>
+        
+            <tr>
+            <td>100</td>
+             <td>100</td>
+             <td>100 </td>
+             <td>100 </td>
+             <td>100 </td>
+            
+            </tr></tbody></table>
+            <h3>Number of Santioned post year-wise during last five years </h3>
+          <div></div><table border="2"> 
+
+            <tbody><tr class="tb-1">
+                <th>year-1</th>
+                <th>year-2</th>
+                <th>year-3</th>
+                <th>year-4</th>
+                <th>year-5</th>
+             </tr>
+            
+                <tr>
+                <td>100</td>
+                 <td>100</td>
+                 <td>100 </td>
+                 <td>100 </td>
+                 <td>100 </td>
+                
+          </tr></tbody></table>
+          <h2> Total academic year considered:5</h2>
+        </div>
+     <p>
+
+
+    </p>
+         <div> </div><table width="80%" border="2"> 
+        <tbody><tr class="coloring-1">
+         
+       </tr><tr class="tb-1">
+           <th>File Description</th>
+            <th>Template</th>
+            <th>Documents</th>
+        </tr>
+    
+           <tr>
+           <td> Year wise full time teachers and sanctioned posts for 5 years (Data Template) </td>
+            <td>Data Tempalte</td>
+            <td><button onclick="uploaded()">Upload </button>    </td>
+           </tr>
+            <tr>
+            <td>List of the faculty members authenticated by the head of HEI</td>
+           <td> </td>
+           <td><button onclick="uploaded()">Upload </button></td>
+            </tr>
+           <tr>
+            <td> Any additional information</td>
+            <td>    </td>
+            <td> <button onclick="uploaded()">Upload </button>    </td>
+           </tr>
+           </tbody></table>
+           <div class="border-22">
+           <label for="one">2.4.2: Average  percentage of full time teachers with Ph.D./D.M./M.Ch/D.N.B superspeciality/D.Sc./D.Litt.during the 
+            last five years(consider only highest degree for count)
+           </label>
+           <input id="one" type="text">
+           </div>
+           <div class="container-22">
+               <p class="content"> 2.4.2.1:Number of full time teachers with Ph.D./D.M./M.Ch/D.N.B superspeciality/D.Sc./D.Litt.year wise during the last five years</p> 
+                <div></div><table border="2" class="table-1" solid="" black="">
+                 <tbody><tr class="tb-1">
+                <th> 2018-19</th> 
+                <th> 2017-18</th>
+                <th> 2016-17</th>
+                <th> 2015-16</th>
+                <th> 2014-15</th>
+            </tr>
+               <tr>
+                    <td><input type="  " class="Size1" id="mytext" value=" 50" "=""></td>
+                    <td> <input type="  " class="Size1" id="mytext" value="50 " "=""></td>
+                    <td> <input type="  " class="Size1" id="mytext" value=" 50" "=""></td>
+                    <td> <input type="  " class="Size1" id="mytext" value=" 50" "=""></td>
+                    <td> <input type="  " class="Size1" id="mytext" value=" 50" "=""></td>
+                </tr>
+            
+    
+           </tbody></table>
+           </div>
+           <p>
+
+
+
+
+           </p>
+           <div class="container-29">
+           <h2> Related Input</h2>
+           <label>
+           Number of students Year-wise during last five Years     </label>
+            <table text="" align="center" border="2">
+            <tbody>
+               <tr>
+               <td> year-1</td> 
+               <td>  year-2</td>
+               <td>  year-3</td>
+               <td>  year-4</td>
+               <td>  year-5</td>
+            </tr>
+            <tr>
+                <td> 100 </td>
+                <td> 100  </td>
+                <td>100 </td>
+                <td> 100  </td>
+                <td> 100</td>
+
+            </tr>
+           </tbody>
+           </table>
+           <h2> Total academic year considered:5 </h2>
+        </div>
+        <p>
+
+
+
+        </p>
+        <div class="container-25">
+              <div></div><table border="2"> 
+                  
+             
+               <tbody><tr class="tb-1">
+               <th>File Description</th>
+                <th>Template</th>
+                <th>Documents</th>
+                </tr>
+            
+               <tr>
+               <td> List of number of full time teachers with  Ph.D./D.M./M.Ch/D.N.B superspeciality/D.Sc./D.Litt.and number of   full time teachers for  five years (Data template)</td>
+                <td> </td>
+                <td><button onclick="uploaded()">Upload </button>    </td>
+               </tr>
+                <tr>
+                <td> Add Additional information </td>
+               <td> </td>
+               <td><button onclick="uploaded()">Upload </button></td>
+                </tr>
+               </tbody></table>
+                </div>
+                <label for="eight"> 2.4.3 Average teaching experience of full time teachers in the same institution(Data for the latest compelted academic year in number of years)
+                  </label>
+                    <input id="one" type="text">
+               
+       
+               <p>
+       
+       
+       
+               </p>
+                  <div class="color-1">
+                  <label for="eight"> 2.4.3.1:Total experience of full time teachers
+                
+                   </label>
+                    <input id="one" type="text">
+                   </div>
+                   <p>
+       
+       
+       
+                   </p>
+                   <div class="color-2">
+                   <h2> Related Input</h2>
+                   <label>
+                   Number of full time teachers year-wise during the last five years     </label>
+                    <div></div><table text="" align="center" border="2">
+                    <tbody>
+                       <tr class="tb-1">
+                       <td> year-1</td> 
+                       <td>  year-2</td>
+                       <td>  year-3</td>
+                       <td>  year-4</td>
+                       <td>  year-5</td>
+                       </tr>
+                       
+                      <tr>
+                        <td> 100 </td>
+                        <td>  100  </td>
+                        <td> 100 </td>
+                        <td>100  </td>
+                        <td> 100 </td>
+        
+                        </tr>
+                        </tbody>
+                        </table>
+                       
+                        
+                        <p>
+
+
+                        </p>
+                       <div class="container-25">
+                        <div></div><table border="2"> 
+                        <tbody><tr class="tb-1">
+                     <th>File Description</th>
+                      <th>Template</th>
+                      <th>Documents</th>
+                      </tr>
+                       
+                     <tr>
+                     <td> List of teachers including their PAN ,Designation,dept and experience details (Data Template)</td>
+                      <td>  Data template</td>
+                      <td><button onclick="uploaded()">Upload </button>    </td>
+                     </tr>
+                      <tr>
+                      <td> Add Additional information </td>
+                     <td> </td>
+                     <td><button onclick="uploaded()">Upload </button></td>
+                      </tr>
+                     </tbody></table>
+                      </div>
+                </div>
+        </div>
+                </div>
+                  <p>
+
+
+
+               </p>
+               <div class="container">
+                <div class="boder-3">
+               <h2> 2.5 Evaluation Process And Reforms</h2>
+               </div>
+               <h2> 2.5.1: Mechanism of internal assessment is transparent and robust in terms of frequency and mode <button onclick="uploaded()">HELP</button></h2>
+    <textarea class="big-input" cols="50" rows="20" border="{2}"> At least 100 characters and within 500 words</textarea>
+     <h2> At least 100 characters and within 500 words</h2>
+     <div class="border-29">
+     <div></div><table width="100%" border="2">
+        <tbody><tr class="tb-1">
+            <th>
+                File Description
+            </th>
+            <th> Template</th>
+            <th> Documents</th>
+        </tr>
+    
+        <tr>
+            <td> Link for  additional imformation</td>
+            <td>  </td>
+            <td>  <input type="  " class="Size1" id="mytext" value="" "="">  </td>
+          
+        </tr>
+        <tr>
+            <td>Any additional information</td>
+            <td>    </td>
+            <td> <button onclick="uploaded()">Upload </button>    </td>
+        </tr>
+       </tbody></table>
+    </div>
+ 
+<h2> 2.5.2: Mechanism to deal with internal/externak examination related grievances is transparent time-bound  efficient  <button onclick="uploaded()">HELP</button></h2>
+<hr>
+<textarea class="big-input" cols="50" rows="20" border="{2}"> At least 100 characters and within 500 words</textarea>
+<h2> Atleasst 100 characters and within 500 words</h2>
+<div class="border-29">
+     <div> </div><table width="100%" border="2">
+   <tbody><tr class="tb-1">
+        <th>
+            File Description
+        </th>
+        <th> Template</th>
+        <th> Documents</th>
+    </tr>
+
+    <tr>
+        <td> Link for  additional imformation</td>
+        <td>  </td>
+        <td>  <input type="  " class="Size1" id="mytext" value="" "="">  </td>
+      
+    </tr>
+    <tr>
+        <td>Any additional information</td>
+        <td>    </td>
+        <td> <button onclick="uploaded()">Upload </button>    </td>
+    </tr>
+   </tbody></table>
+</div>
+<p>
+
+
+</p>
+<div class="head-1">
+   <h1> 2.6 Student Performance and Learning Outcomes</h1>
+</div>
+
+<h2> 2.6.1: Programme and course outcomes for all programs offered by the institution are stated and displayed on website and communicated to teachers and students <button onclick="uploaded()">HELP</button></h2>
+<textarea class="big-input" cols="50" rows="20" border="{2}"> At least 100 characters and within 500 words</textarea>
+<h2> Atleasst 100 characters and within 500 words</h2>
+<div class="boder-5">
+<div></div><table border="2">         
+    <tbody><tr class="tb-1">
+       <th>File Description</th>
+        <th>Template</th>
+        <th>Documents</th>
+       </tr>
+    
+       <tr>
+       <td> Upload COs for all programs (exemplars from Glossary</td>
+        <td></td>
+        <td><button onclick="uploaded()">Upload </button>    </td>
+       </tr>
+        <tr>
+        <td>Upload any additional information</td>
+       <td> </td>
+       <td><button onclick="uploaded()">Upload </button></td>
+        </tr>
+       <tr>
+        <td> pastelink for Additional information</td>
+        <td>    </td>
+        <td>  <input type="  " class="Size1" id="mytext" value="" "="">     </td>
+       </tr>
+       </tbody></table>
+     </div>
+     <h2> 2.6.2: Programme and course outcomes for all programs offered by the institution are stated and displayed on website and communicated to teachers and students <button onclick="uploaded()">HELP</button></h2>
+     <textarea class="big-input" cols="50" rows="20" border="{2}"> At least 100 characters and within 500 words</textarea>
+     <h2> Atleasst 100 characters and within 500 words</h2>
+     <div class="boder-5">
+      <div> </div><table width="100% " border="2">
+       <tbody><tr class="tb-1">
+            <th> File Description</th>
+            <th> Template</th>
+            <th> Documents</th>
+        </tr>
+    
+        <tr>
+            <td> Upload any additional information</td>
+            <td>     </td>
+            <td><button onclick="uploaded()">Upload </button> </td>
+        </tr>
+        <tr>
+            <td> paste link for addtional information</td>
+            <td>    </td>
+            <td> <input type="  " class="Size1" id="mytext" value="" "=""></td>
+        </tr>
+      </tbody></table>
+    </div>
+    <p>
+
+
+    </p>
+     <div class="boder-11">
+    <label for="forty">2.6.3: Average pass percentage of students during last five</label>
+             <input id="forty" type="text">
+            </div>
+            <p>
+
+            </p>
+            <div class="boder-12">
+                <p class="content"> 2.6.3.1:Number of final year Students who passed the university examination year-wise during the last five years</p> 
+                <div></div><table border="2">
+                    <tbody><tr class="tb-1">
+                     <th> 2018-19</th>
+                     <th> 2017-18</th>
+                     <th> 2016-17</th>
+                     <th> 2015-16</th>
+                     <th> 2014-15</th>
+                    </tr>
+                
+                    <tr>
+                        <td><input type="  " class="Size1" id="mytext" value="" "=""> </td>
+                        <td><input type="  " class="Size1" id="mytext" value="" "=""> </td>
+                        <td><input type="  " class="Size1" id="mytext" value="" "=""> </td>
+                        <td><input type="  " class="Size1" id="mytext" value="" "=""> </td>
+                        <td><input type="  " class="Size1" id="mytext" value="" "=""> </td>
+                    </tr>
+                </tbody></table>
+                </div>
+                <p>
+
+
+
+                </p>
+                <div class="content-1">
+                    <p class="content"> 2.6.3.2:Number of final year Students who appeared for the university examination year-wise during the last five years</p> 
+                    <div> </div><table border="2">
+                       <tbody><tr class="tb-1">
+                         <th> 2018-19</th>
+                         <th> 2017-18</th>
+                         <th> 2016-17</th>
+                         <th> 2015-16</th>
+                         <th> 2014-15</th>
+                        </tr>
+                    
+                        <tr>
+                            <td><input type="  " class="Size1" id="mytext" value="" "=""> </td>
+                            <td><input type="  " class="Size1" id="mytext" value="" "=""> </td>
+                            <td><input type="  " class="Size1" id="mytext" value="" "=""> </td>
+                            <td><input type="  " class="Size1" id="mytext" value="" "=""> </td>
+                            <td><input type="  " class="Size1" id="mytext" value="" "=""> </td>
+                        </tr>
+                    </tbody></table>
+                </div>
+                <p>
+
+
+                </p>
+                <div class="content-2" <h2=""> Related Input
+                <h3> Total Academic Year Considered:5</h3>
+                </div>
+                <p>
+
+
+                </p>
+                <div></div><table border="2">         
+                    <tbody><tr class="tb-1">
+                       <th>File Description</th>
+                        <th>Template</th>
+                        <th>Documents</th>
+                       </tr>
+                    
+                       <tr>
+                       <td> Upload list of Programmes and number of stidents passed and appeared in the final year examination(Data  template)</td>
+                        <td> Data Tempalte</td>
+                        <td><button onclick="uploaded()">Upload </button>    </td>
+                       </tr>
+                        <tr>
+                        <td>Upload any additional information</td>
+                       <td> </td>
+                       <td><button onclick="uploaded()">Upload </button></td>
+                        </tr>
+                       <tr>
+                        <td> paste link for the annual report</td>
+                        <td>    </td>
+                        <td>  <input type="  " class="Size1" id="mytext" value="" "="">     </td>
+                       </tr>
+                       </tbody></table>
+                       <p>
+
+                       </p>
+            
+                       <div class="just-1">
+                      <h2> 2.7 Student Satisfaction Survey</h2>
+                        <label for="one">2.7.1 :Online Student Satisfaction Survey regarding teaching learning process</label>
+             <input id="one" type="text">
+   
+             </div>
+             
+    
+
+
+        
+                
+        
+
+
+
+        
+               
+
+
+
+
+
+
+     
+
+
+
+
+
+
+            
+
+
+
+
+
+    
+
+
+
+
+
+
+        
+    
+
+
+ 
+</div></div><div id="__ig_wm__" class="ui-igtrialwatermark" style="position: fixed; bottom: 0px; right: 0px; z-index: 1000;"></div><div class="ui-igcombo-dropdown ui-widget ui-widget-content ui-corner-all ui-igcombo-no-border" style="height: 0px; top: -99999px; left: -99999px; overflow: hidden;"><div class="ui-igcombo-list" style="max-height: 435px;"><ul class="ui-igcombo-listitemholder"><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Times New Roman" unselectable="on"><span style="font-family: Times New Roman" unselectable="on">Times New Roman</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Arial" unselectable="on"><span style="font-family: Arial" unselectable="on">Arial</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Arial Black" unselectable="on"><span style="font-family: Arial Black" unselectable="on">Arial Black</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Helvetica" unselectable="on"><span style="font-family: Helvetica" unselectable="on">Helvetica</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Comic Sans MS" unselectable="on"><span style="font-family: Comic Sans MS" unselectable="on">Comic Sans MS</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Courier New" unselectable="on"><span style="font-family: Courier New" unselectable="on">Courier New</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Georgia" unselectable="on"><span style="font-family: Georgia" unselectable="on">Georgia</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Impact" unselectable="on"><span style="font-family: Impact" unselectable="on">Impact</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Lucida Console" unselectable="on"><span style="font-family: Lucida Console" unselectable="on">Lucida Console</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Lucida Sans Unicode" unselectable="on"><span style="font-family: Lucida Sans Unicode" unselectable="on">Lucida Sans Unicode</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Palatino Linotype" unselectable="on"><span style="font-family: Palatino Linotype" unselectable="on">Palatino Linotype</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Tahoma" unselectable="on"><span style="font-family: Tahoma" unselectable="on">Tahoma</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Trebuchet MS" unselectable="on"><span style="font-family: Trebuchet MS" unselectable="on">Trebuchet MS</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Verdana" unselectable="on"><span style="font-family: Verdana" unselectable="on">Verdana</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Symbol" unselectable="on"><span style="font-family: Symbol" unselectable="on">Symbol</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Webdings" unselectable="on"><span style="font-family: Webdings" unselectable="on">Webdings</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="Wingdings" unselectable="on"><span style="font-family: Wingdings" unselectable="on">Wingdings</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="MS Sans Serif" unselectable="on"><span style="font-family: MS Sans Serif" unselectable="on">MS Sans Serif</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="MS Serif" unselectable="on"><span style="font-family: MS Serif" unselectable="on">MS Serif</span></li></ul></div></div><div class="ui-igcombo-dropdown ui-widget ui-widget-content ui-corner-all ui-igcombo-no-border" style="width: 100px; height: 0px; top: -99999px; left: -99999px; overflow: hidden;"><div class="ui-igcombo-list" style="max-height: 435px;"><ul class="ui-igcombo-listitemholder"><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="1" unselectable="on"><span unselectable="on">7.5 pt</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="2" unselectable="on"><span unselectable="on">10 pt</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="3" unselectable="on"><span unselectable="on">12 pt</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="4" unselectable="on"><span unselectable="on">13.5 pt</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="5" unselectable="on"><span unselectable="on">18 pt</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="6" unselectable="on"><span unselectable="on">24 pt</span></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="7" unselectable="on"><span unselectable="on">36 pt</span></li></ul></div></div><div class="ui-igcombo-dropdown ui-widget ui-widget-content ui-corner-all ui-igcombo-no-border" style="height: 0px; top: -99999px; left: -99999px; overflow: hidden;"><div class="ui-igcombo-list" style="max-height: 1410px;"><ul class="ui-igcombo-listitemholder"><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="h1" unselectable="on"><h1 unselectable="on">Heading 1</h1></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="h2" unselectable="on"><h2 unselectable="on">Heading 2</h2></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="h3" unselectable="on"><h3 unselectable="on">Heading 3</h3></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="h4" unselectable="on"><h4 unselectable="on">Heading 4</h4></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="h5" unselectable="on"><h5 unselectable="on">Heading 5</h5></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="h6" unselectable="on"><h6 unselectable="on">Heading 6</h6></li><li class="ui-igcombo-listitem ui-state-default ui-unselectable" data-value="p" unselectable="on"><p unselectable="on">Normal</p></li></ul></div></div><div class="ui-widget ui-igpopover" id="htmlEditor_toolbars_formattingToolbar_item_textColor_popover_popover"><div class="ui-igpopover-arrow ui-igpopover-arrow-top" id="htmlEditor_toolbars_formattingToolbar_item_textColor_popover_popover_arrow"></div><div class="ui-widget-content ui-corner-all" id="htmlEditor_toolbars_formattingToolbar_item_textColor_popover_popover_contentFrame" style="position: relative; max-width: 200px; max-height: 200px; min-width: 60px; width: 220px; height: auto;"><div id="htmlEditor_toolbars_formattingToolbar_item_textColor_popover_popover_contentInner" class="ui-igColorPicker" style="position: relative;"><div class="igColorPicker-table"><div class="igColorPicker-customColors"><div class="igColorPicker-row"><div class="igColorPicker-color" style="background-color: #ffffff;"></div><div class="igColorPicker-color" style="background-color: #000000;"></div><div class="igColorPicker-color" style="background-color: #EEECE1;"></div><div class="igColorPicker-color" style="background-color: #1F497D;"></div><div class="igColorPicker-color" style="background-color: #4F81BD;"></div><div class="igColorPicker-color" style="background-color: #C0504D;"></div><div class="igColorPicker-color" style="background-color: #9BBB59;"></div><div class="igColorPicker-color" style="background-color: #8064A2;"></div><div class="igColorPicker-color" style="background-color: #4BACC6;"></div><div class="igColorPicker-color" style="background-color: #F79646;"></div></div><div class="igColorPicker-row"><div class="igColorPicker-color" style="background-color: #F2F2F2;"></div><div class="igColorPicker-color" style="background-color: #7F7F7F;"></div><div class="igColorPicker-color" style="background-color: #DDD9C3;"></div><div class="igColorPicker-color" style="background-color: #C6D9F0;"></div><div class="igColorPicker-color" style="background-color: #DBE5F1;"></div><div class="igColorPicker-color" style="background-color: #F2DCDB;"></div><div class="igColorPicker-color" style="background-color: #EBF1DD;"></div><div class="igColorPicker-color" style="background-color: #E5E0EC;"></div><div class="igColorPicker-color" style="background-color: #DBEEF3;"></div><div class="igColorPicker-color" style="background-color: #FDEADA;"></div></div><div class="igColorPicker-row"><div class="igColorPicker-color" style="background-color: #D8D8D8;"></div><div class="igColorPicker-color" style="background-color: #595959;"></div><div class="igColorPicker-color" style="background-color: #C4BD97;"></div><div class="igColorPicker-color" style="background-color: #8DB3E2;"></div><div class="igColorPicker-color" style="background-color: #B8CCE4;"></div><div class="igColorPicker-color" style="background-color: #E5B9B7;"></div><div class="igColorPicker-color" style="background-color: #D7E3BC;"></div><div class="igColorPicker-color" style="background-color: #CCC1D9;"></div><div class="igColorPicker-color" style="background-color: #B7DDE8;"></div><div class="igColorPicker-color" style="background-color: #FAC08F;"></div></div><div class="igColorPicker-row"><div class="igColorPicker-color" style="background-color: #BFBFBF;"></div><div class="igColorPicker-color" style="background-color: #3F3F3F;"></div><div class="igColorPicker-color" style="background-color: #938953;"></div><div class="igColorPicker-color" style="background-color: #548DD4;"></div><div class="igColorPicker-color" style="background-color: #95B3D7;"></div><div class="igColorPicker-color" style="background-color: #D99694;"></div><div class="igColorPicker-color" style="background-color: #C3D69B;"></div><div class="igColorPicker-color" style="background-color: #B2A1C7;"></div><div class="igColorPicker-color" style="background-color: #92CDDC;"></div><div class="igColorPicker-color" style="background-color: #FAC08F;"></div></div><div class="igColorPicker-row"><div class="igColorPicker-color" style="background-color: #A5A5A5;"></div><div class="igColorPicker-color" style="background-color: #262626;"></div><div class="igColorPicker-color" style="background-color: #494429;"></div><div class="igColorPicker-color" style="background-color: #17365D;"></div><div class="igColorPicker-color" style="background-color: #366092;"></div><div class="igColorPicker-color" style="background-color: #953734;"></div><div class="igColorPicker-color" style="background-color: #76923C;"></div><div class="igColorPicker-color" style="background-color: #5F497A;"></div><div class="igColorPicker-color" style="background-color: #31859B;"></div><div class="igColorPicker-color" style="background-color: #E36C09;"></div></div><div class="igColorPicker-row"><div class="igColorPicker-color" style="background-color: #7F7F7F;"></div><div class="igColorPicker-color" style="background-color: #0C0C0C;"></div><div class="igColorPicker-color" style="background-color: #1D1B10;"></div><div class="igColorPicker-color" style="background-color: #0F243E;"></div><div class="igColorPicker-color" style="background-color: #244061;"></div><div class="igColorPicker-color" style="background-color: #632423;"></div><div class="igColorPicker-color" style="background-color: #4F6128;"></div><div class="igColorPicker-color" style="background-color: #3F3151;"></div><div class="igColorPicker-color" style="background-color: #205867;"></div><div class="igColorPicker-color" style="background-color: #974806;"></div></div></div><div class="ui-colorpicker-standardcolors"><div class="igColorPicker-color" style="background-color: #C00000;"></div><div class="igColorPicker-color" style="background-color: #FF0000;"></div><div class="igColorPicker-color" style="background-color: #FFC000;"></div><div class="igColorPicker-color" style="background-color: #FFFF00;"></div><div class="igColorPicker-color" style="background-color: #92D050;"></div><div class="igColorPicker-color" style="background-color: #00B050;"></div><div class="igColorPicker-color" style="background-color: #00B0F0;"></div><div class="igColorPicker-color" style="background-color: #0070C0;"></div><div class="igColorPicker-color" style="background-color: #002060;"></div><div class="igColorPicker-color" style="background-color: #7030A0;"></div></div></div></div><div style="clear: both;"></div></div></div><div class="ui-widget ui-igpopover" id="htmlEditor_toolbars_formattingToolbar_item_backgroundTextColor_popover_popover"><div class="ui-igpopover-arrow ui-igpopover-arrow-top" id="htmlEditor_toolbars_formattingToolbar_item_backgroundTextColor_popover_popover_arrow"></div><div class="ui-widget-content ui-corner-all" id="htmlEditor_toolbars_formattingToolbar_item_backgroundTextColor_popover_popover_contentFrame" style="position: relative; max-width: 200px; max-height: 200px; min-width: 60px; width: 220px; height: auto;"><div id="htmlEditor_toolbars_formattingToolbar_item_backgroundTextColor_popover_popover_contentInner" class="ui-igColorPicker" style="position: relative;"><div class="igColorPicker-table"><div class="igColorPicker-customColors"><div class="igColorPicker-row"><div class="igColorPicker-color" style="background-color: #ffffff;"></div><div class="igColorPicker-color" style="background-color: #000000;"></div><div class="igColorPicker-color" style="background-color: #EEECE1;"></div><div class="igColorPicker-color" style="background-color: #1F497D;"></div><div class="igColorPicker-color" style="background-color: #4F81BD;"></div><div class="igColorPicker-color" style="background-color: #C0504D;"></div><div class="igColorPicker-color" style="background-color: #9BBB59;"></div><div class="igColorPicker-color" style="background-color: #8064A2;"></div><div class="igColorPicker-color" style="background-color: #4BACC6;"></div><div class="igColorPicker-color" style="background-color: #F79646;"></div></div><div class="igColorPicker-row"><div class="igColorPicker-color" style="background-color: #F2F2F2;"></div><div class="igColorPicker-color" style="background-color: #7F7F7F;"></div><div class="igColorPicker-color" style="background-color: #DDD9C3;"></div><div class="igColorPicker-color" style="background-color: #C6D9F0;"></div><div class="igColorPicker-color" style="background-color: #DBE5F1;"></div><div class="igColorPicker-color" style="background-color: #F2DCDB;"></div><div class="igColorPicker-color" style="background-color: #EBF1DD;"></div><div class="igColorPicker-color" style="background-color: #E5E0EC;"></div><div class="igColorPicker-color" style="background-color: #DBEEF3;"></div><div class="igColorPicker-color" style="background-color: #FDEADA;"></div></div><div class="igColorPicker-row"><div class="igColorPicker-color" style="background-color: #D8D8D8;"></div><div class="igColorPicker-color" style="background-color: #595959;"></div><div class="igColorPicker-color" style="background-color: #C4BD97;"></div><div class="igColorPicker-color" style="background-color: #8DB3E2;"></div><div class="igColorPicker-color" style="background-color: #B8CCE4;"></div><div class="igColorPicker-color" style="background-color: #E5B9B7;"></div><div class="igColorPicker-color" style="background-color: #D7E3BC;"></div><div class="igColorPicker-color" style="background-color: #CCC1D9;"></div><div class="igColorPicker-color" style="background-color: #B7DDE8;"></div><div class="igColorPicker-color" style="background-color: #FAC08F;"></div></div><div class="igColorPicker-row"><div class="igColorPicker-color" style="background-color: #BFBFBF;"></div><div class="igColorPicker-color" style="background-color: #3F3F3F;"></div><div class="igColorPicker-color" style="background-color: #938953;"></div><div class="igColorPicker-color" style="background-color: #548DD4;"></div><div class="igColorPicker-color" style="background-color: #95B3D7;"></div><div class="igColorPicker-color" style="background-color: #D99694;"></div><div class="igColorPicker-color" style="background-color: #C3D69B;"></div><div class="igColorPicker-color" style="background-color: #B2A1C7;"></div><div class="igColorPicker-color" style="background-color: #92CDDC;"></div><div class="igColorPicker-color" style="background-color: #FAC08F;"></div></div><div class="igColorPicker-row"><div class="igColorPicker-color" style="background-color: #A5A5A5;"></div><div class="igColorPicker-color" style="background-color: #262626;"></div><div class="igColorPicker-color" style="background-color: #494429;"></div><div class="igColorPicker-color" style="background-color: #17365D;"></div><div class="igColorPicker-color" style="background-color: #366092;"></div><div class="igColorPicker-color" style="background-color: #953734;"></div><div class="igColorPicker-color" style="background-color: #76923C;"></div><div class="igColorPicker-color" style="background-color: #5F497A;"></div><div class="igColorPicker-color" style="background-color: #31859B;"></div><div class="igColorPicker-color" style="background-color: #E36C09;"></div></div><div class="igColorPicker-row"><div class="igColorPicker-color" style="background-color: #7F7F7F;"></div><div class="igColorPicker-color" style="background-color: #0C0C0C;"></div><div class="igColorPicker-color" style="background-color: #1D1B10;"></div><div class="igColorPicker-color" style="background-color: #0F243E;"></div><div class="igColorPicker-color" style="background-color: #244061;"></div><div class="igColorPicker-color" style="background-color: #632423;"></div><div class="igColorPicker-color" style="background-color: #4F6128;"></div><div class="igColorPicker-color" style="background-color: #3F3151;"></div><div class="igColorPicker-color" style="background-color: #205867;"></div><div class="igColorPicker-color" style="background-color: #974806;"></div></div></div><div class="ui-colorpicker-standardcolors"><div class="igColorPicker-color" style="background-color: #C00000;"></div><div class="igColorPicker-color" style="background-color: #FF0000;"></div><div class="igColorPicker-color" style="background-color: #FFC000;"></div><div class="igColorPicker-color" style="background-color: #FFFF00;"></div><div class="igColorPicker-color" style="background-color: #92D050;"></div><div class="igColorPicker-color" style="background-color: #00B050;"></div><div class="igColorPicker-color" style="background-color: #00B0F0;"></div><div class="igColorPicker-color" style="background-color: #0070C0;"></div><div class="igColorPicker-color" style="background-color: #002060;"></div><div class="igColorPicker-color" style="background-color: #7030A0;"></div></div></div></div><div style="clear: both;"></div></div></div></body></html>
